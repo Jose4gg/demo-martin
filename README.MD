@@ -1,1 +1,1 @@
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](/assets/demo.mov)
+[![Demo CountPages alpha](/assets/demo.mov)(/assets/demo.mov)
