@@ -1,1 +1,3 @@
-[Video](./assets/video.gif)
+|            Video             |     |
+| :--------------------------: | :-: |
+| ![Video](./assets/video.gif) |     |
